@@ -3,9 +3,7 @@
 <h3 align="center">AI Researcher | DevOps Enthusiast | Software Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilakshan-chandrasena">
-    <img src="https://img.shields.io/badge/LinkedIn-Dilakshan%20Chandrasena-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher;Medical+Imaging+AI;DevOps+Engineer;Computer+Science+Undergraduate&center=true&width=500&height=45">
 </p>
 
 ---
@@ -97,15 +95,15 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dilakshan-chandrasena&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=dilakshan-chandrasena&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilakshan-chandrasena&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -113,7 +111,7 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilakshan-chandrasena&theme=tokyo-night"/>
 </p>
 
 ---
@@ -121,7 +119,7 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dilakshan-chandrasena&theme=onedark"/>
 </p>
 
 ---
