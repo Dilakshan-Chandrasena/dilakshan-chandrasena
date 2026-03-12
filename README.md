@@ -99,11 +99,11 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=dilakshan-chandrasena&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=dilakshan-chandrasena&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilakshan-chandrasena&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilakshan-chandrasena&layout=compact&theme=dark"/>
 </p>
 
 ---
