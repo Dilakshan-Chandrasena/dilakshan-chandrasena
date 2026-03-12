@@ -1,16 +1,146 @@
-## Hi there 👋
+<!-- Animated Intro -->
+<h1 align="center">Hi 👋, I'm Dilakshan Chandrasena</h1>
+<h3 align="center">AI Researcher | DevOps Enthusiast | Software Developer</h3>
 
-<!--
-**Dilakshan-Chandrasena/dilakshan-chandrasena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilakshan-chandrasena">
+    <img src="https://img.shields.io/badge/LinkedIn-Dilakshan%20Chandrasena-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 About Me
+
+- 💻 Infrastructure Analyst at **HCL Technologies**
+- 🎓 Computer Science Undergraduate
+- 🔬 Researching **Explainable AI for Medical Imaging**
+- ⚙️ Interested in **DevOps, AI Systems, and Scalable Infrastructure**
+- 🧪 Experimenting with **cybersecurity and cloud technologies**
+
+---
+
+# 🔬 Research
+
+### Explainable Multi-Label Chest Disease Classification and Lesion Localization
+
+My research introduces **CheXDFuseNet**, a hybrid deep learning architecture designed for chest X-ray analysis.
+
+Key innovations:
+
+• CNN + Vision Transformer hybrid architecture  
+• Dynamic Fusion Gate for feature integration  
+• Class-Frequency Aware Dynamic Focal Loss  
+• Weakly-supervised lesion localization  
+• Explainable heatmaps using Grad-CAM  
+
+Dataset: **NIH ChestX-ray14**
+
+---
+
+# 🚀 Featured Projects
+
+### 🩺 CheXDFuseNet
+Explainable AI framework for **multi-label chest disease classification and lesion localization**.
+
+Technologies:
+- PyTorch
+- Vision Transformers
+- Grad-CAM
+- Computer Vision
+
+---
+
+### 📄 Legal Clause Inconsistency Detection
+NLP system for identifying inconsistencies across legal contracts using **CUAD dataset**.
+
+Technologies:
+- NLP
+- Transformers
+- Python
+
+---
+
+### 🌱 EcoChoice
+Sustainable shopping assistant helping users make **eco-friendly purchasing decisions**.
+
+---
+
+# ⚙️ Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,bash"/>
+</p>
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
+</p>
+
+### DevOps & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,github"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Explainable Medical AI
+- Vision Transformers
+- MLOps
+- Cloud Native DevOps
+- Secure Software Engineering
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/dilakshan-chandrasena
+
+---
+
+⭐ Always open to collaboration in **AI research, intelligent systems, and DevOps engineering**.
