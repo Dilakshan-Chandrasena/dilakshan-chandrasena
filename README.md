@@ -95,7 +95,7 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dilakshan-chandrasena&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dilakshan-chandrasena&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilakshan-chandrasena&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilakshan-chandrasena&theme=dark"/>
 </p>
 
 ---
