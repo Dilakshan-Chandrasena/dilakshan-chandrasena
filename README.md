@@ -127,7 +127,7 @@ Sustainable shopping assistant helping users make **eco-friendly purchasing deci
 # 📚 Currently Learning
 
 - Explainable Medical AI
-- Vision Transformers
+- Vision Transformers (ViT)
 - MLOps
 - Cloud Native DevOps
 - Secure Software Engineering
